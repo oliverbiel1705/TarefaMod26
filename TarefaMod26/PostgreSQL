@@ -1,0 +1,5 @@
+PostgreSQL é um sistema de gerenciamento de banco de dados relacional (SGBDR) de código aberto, amplamente utilizado para armazenar, organizar e gerenciar dados. Oferece uma solução robusta e confiável para lidar com grandes volumes de dados em diferentes aplicações.
+
+Um banco de dados relacional é um tipo de banco de dados que organiza os dados em tabelas com relacionamentos definidos entre elas. Cada tabela é composta por linhas (registros) e colunas (campos) que armazenam as informações de forma estruturada. Essa abordagem facilita a consulta e a manipulação dos dados.
+
+
